@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:tla="http://tla.mpi.nl"
+                xmlns:lat="http://lat.mpi.nl/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2015-10-09+01:00"
+                FormatId="IMDI 3.0"
+                Type="SESSION"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Session>
+      <Name>!TITLE!</Name>
+      <Title>!TITLE!</Title>
+      <Date>!DATE!</Date>
+      <Description LanguageId="ISO639-3:eng">!DESCRIPTION OF BUNDLE INCLUDING TOPIC, EQUIPMENT USED, TYPES OF FILES INCLUDED!</Description>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">Unspecified</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">Tanzania</Country>
+            <Region>!NAMES OF REGIONS!</Region>
+         </Location>
+         <Project>
+            <Name>!ELAR DEPOSIT CODE!</Name>
+            <Title>!DEPOSIT TITLE!</Title>
+            <Id>!ELDP PROJECT CODE!</Id>
+            <Contact>
+               <Name>!DEPOSITOR #1 NAME!</Name>
+               <Address>!DEPOSITOR ADDRESS!</Address>
+               <Email>!DEPOSITOR #1 EMAIL</Email>
+               <Organisation>!DEPOSITOR #1 ORGANIZATION</Organisation>
+            </Contact>
+	    <Description LanguageId="ISO639-3:eng" Link="">!PROJECT DESCRIPTION!</Description>
+         </Project>
+	 <Keys/>
+         <Content>
+            <Genre Type="OpenVocabulary">!GENRE TYPE!</Genre>
+            <SubGenre Type="OpenVocabulary"/> 
+            <Task Type="OpenVocabulary"/>
+            <Modalities Type="OpenVocabulary"/>
+            <Subject Type="OpenVocabulary"/>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">!INTERACTIVITY!</Interactivity>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">!PLANNING TYPE!</PlanningType>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">!INVOLVEMENT!</Involvement>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">!SOCIAL CONTEXT!</SocialContext>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">!EVENT STRUCTURE!</EventStructure>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary"/>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="" Link=""/>
+               <Language>
+                  <Id>ISO639-3:eng</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">English</Name>
+                  <Dominant Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description>Working Language</Description>
+               </Language>
+               <Language>
+                  <Id>!ISO CODE OF CONTENT LANGUAGE!</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">!CONTENT LANGUAGE!</Name>
+                  <Dominant Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description>Content Language</Description>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:swa</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Swahili</Name>
+                  <Dominant Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description>Working Language</Description>
+               </Language>
+            </Languages>
+            <Keys>
+               <Key Name="Topic">!TOPIC!</Key>
+#REPEATABLE SECTION:
+               <Key Name="Keyword">!KEY!</Key>
+            </Keys>
+            <Description/>
+         </Content>
+         <Actors>
+            <Description/>
+
+#REPEATABLE SECTION:
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml" Type="OpenVocabularyList">!ROLE!</Role>
+               <Name>!NAME!</Name>
+               <FullName>!FULL NAME!</FullName>
+               <Code/>
+               <FamilySocialRole Type="OpenVocabulary"/>
+               <Languages>
+                  <Description/>
+                  <Language>
+                     <Id>ISO639-3:!ISO CODE OF LANGUAGE SPOKEN!</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">!NAME OF LANGUAGE!</Name>
+                     <MotherTongue Type="ClosedVocabulary">!true/false!</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">!true/false!</PrimaryLanguage>
+                     <Description LanguageId="" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:!ISO CODE OF LANGUAGE SPOKEN!</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">!NAME OF LANGUAGE!</Name>
+                     <MotherTongue Type="ClosedVocabulary">!true/false!</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">!true/false!</PrimaryLanguage>
+                     <Description LanguageId="" Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup Type="OpenVocabulary">!ETHNIC GROUP!</EthnicGroup>
+               <Age>!AGE!</Age>
+               <BirthDate>!BIRTH DATE!</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">!Male/Female!</Sex>
+               <Education>!EDUCATION!</Education>
+               <Anonymized Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+	       <Description LanguageId="ISO639-3:eng" Link="">Eliyo was born in the village of Beth Qustan in 1948 and emigrated to Germany in 1975.</Description>
+               <Keys>
+                  <Key Name="BibliographicalNote" Type="OpenVocabulary">!BIOGRAPHICAL INFORMATION!</Key>
+               </Keys>
+            </Actor>
+
+           
+         </Actors>
+      </MDGroup>
+      <Resources>
+
+#REPEATABLE SECTION:
+         <MediaFile>
+            <ResourceLink>../!RESOURCE NAME!</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml" Type="ClosedVocabulary">!Audio/Video/Image!</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml" Type="OpenVocabulary">!audio/x-wav or video/mp4 or image/jpeg!</Format>
+            <Size/>
+            <Quality Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions>Unspecified</RecordingConditions>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability Type="OpenVocabulary">O</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-2:eng" Link="">This resource is open access.</Description>
+            </Access>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary">!RECORDING EQUIPMENT USED!</Key>
+            </Keys>
+         </MediaFile>
+
+#REPEATABLE SECTION:
+         <WrittenResource>
+            <ResourceLink>../!RESOURCE NAME!</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Type="OpenVocabulary">Document</Type>
+            <SubType Type="OpenVocabulary">Unspecified</SubType>
+            <Format Type="OpenVocabulary">!application/pdf or text/x-eaf+xml or text/praat-textgrid!</Format>
+            <Size Type="OpenVocabulary">Unspecified</Size>
+            <Validation>
+               <Type Type="OpenVocabulary">Unspecified</Type>
+               <Methodology Type="OpenVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+            </Validation>
+            <Derivation Type="OpenVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary">Unspecified</LanguageId>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary"/>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions"/>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </WrittenResource>
+        
+      </Resources>
+      <References/>
+   </Session>
+</METATRANSCRIPT>

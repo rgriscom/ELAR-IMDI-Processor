@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:tla="http://tla.mpi.nl"
+                xmlns:lat="http://lat.mpi.nl/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2015-10-09+01:00"
+                FormatId="IMDI 3.0"
+                Type="SESSION"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Session>
+      <Name>Animal and plant names 1</Name>
+      <Title>Animal and plant names 1</Title>
+      <Date>2015-10-09</Date>
+      <Description LanguageId="ISO639-3:eng">A male elder speaker from Laghangareri producing elicited animal and plant names. Recorded with Shure SM-35 headset microphone and Zoom H4n audio recorder. Bundle includes audio file (.WAV), PDF file, and Praat TextGrid file (.TextGrid).</Description>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">Unspecified</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">Tanzania</Country>
+            <Region>Laghangereri</Region>
+         </Location>
+         <Project>
+            <Name/>
+            <Title/>
+            <Id/>
+            <Contact>
+               <Name/>
+               <Address/>
+               <Email/>
+               <Organisation/>
+            </Contact>
+         </Project>
+	        <Keys>
+	        </Keys>
+         <Content>
+            <Genre Type="OpenVocabulary">Wordlist</Genre>
+            <SubGenre Type="OpenVocabulary"/>
+            <Task Type="OpenVocabulary"/>
+            <Modalities Type="OpenVocabulary"/>
+            <Subject Type="OpenVocabulary"/>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary"/>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary"/>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary"/>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary"/>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary"/>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary"/>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="" Link=""/>
+               <Language>
+                  <Id>ISO639-3:eng</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">English</Name>
+                  <Dominant Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description>Working</Description>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:tcc</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Datooga</Name>
+                  <Dominant Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description>Content</Description>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:swa</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Swahili</Name>
+                  <Dominant Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description>Working</Description>
+               </Language>
+            </Languages>
+            <Keys>
+               <Key Name="Keyword" Type="OpenVocabulary">CAWL</Key>
+               <Key Name="Keyword" Type="OpenVocabulary">Isimjeeg</Key>
+               <Key Name="Keyword" Type="OpenVocabulary">Datooga</Key>
+               <Key Name="Keyword" Type="OpenVocabulary"/>
+               <Key Name="Topic">elicitation</Key>
+               <Key Name="Keyword">nouns</Key>
+               <Key Name="Keyword">animals</Key>
+               <Key Name="Keyword">plants</Key>
+            </Keys>
+            <Description/>
+         </Content>
+         <Actors>
+            <Description/>
+            <Actor>
+               <Role Type="OpenVocabulary">Facilitator</Role>
+               <Name>Richard Griscom</Name>
+               <FullName>Richard Thomas Line Griscom</FullName>
+               <Code/>
+               <FamilySocialRole Type="OpenVocabulary"/>
+               <Languages>
+                  <Description/>
+                  <Language>
+                     <Id>ISO639-3:eng</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">English</Name>
+                     <MotherTongue Type="ClosedVocabulary">Unspecified</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">Unspecified</PrimaryLanguage>
+                     <Description LanguageId="" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:swa</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Swahili</Name>
+                     <MotherTongue Type="ClosedVocabulary">Unspecified</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">Unspecified</PrimaryLanguage>
+                     <Description LanguageId="" Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup Type="OpenVocabulary">Caucasian American</EthnicGroup>
+               <Age>29</Age>
+               <BirthDate>1986</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Up to PhD</Education>
+               <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys>
+                  <Key Name="BibliographicalNote" Type="OpenVocabulary"/>
+                  <Key Name="AdditionalInformationPerson" Type="OpenVocabulary"/>
+                  <Key Name="Nationality" Type="OpenVocabulary">American</Key>
+               </Keys>
+            </Actor>
+            <Actor>
+               <Role Type="OpenVocabulary">Consultant</Role>
+               <Name>Bwana Karatu</Name>
+               <FullName>Karatu Gitige Mangi</FullName>
+               <Code/>
+               <FamilySocialRole Type="OpenVocabulary"/>
+               <Languages>
+                  <Description/>
+                  <Language>
+                     <Id>ISO639-3:tcc</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Datooga</Name>
+                     <MotherTongue Type="ClosedVocabulary">Unspecified</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">Unspecified</PrimaryLanguage>
+                     <Description LanguageId="" Link="">First language Isimjeeg.</Description>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:swa</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Swahili</Name>
+                     <MotherTongue Type="ClosedVocabulary">Unspecified</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">Unspecified</PrimaryLanguage>
+                     <Description LanguageId="" Link="">Fluent.</Description>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:eng</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">English</Name>
+                     <MotherTongue Type="ClosedVocabulary">Unspecified</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">Unspecified</PrimaryLanguage>
+                     <Description LanguageId="" Link="">Knows some words.</Description>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:irk</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Iraqw</Name>
+                     <MotherTongue Type="ClosedVocabulary">Unspecified</MotherTongue>
+                     <PrimaryLanguage Type="ClosedVocabulary">Unspecified</PrimaryLanguage>
+                     <Description LanguageId="" Link="">Fluency unknown, but at least somewhat proficient.</Description>
+                  </Language>
+               </Languages>
+               <EthnicGroup Type="OpenVocabulary">Isimjeeg</EthnicGroup>
+               <Age>38</Age>
+               <BirthDate>1977</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Primary school at Laghangereri</Education>
+               <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys>
+                  <Key Name="BibliographicalNote" Type="OpenVocabulary">Born in Laghangereri. Lived in Yaeda Chini from 1986 to 1991. Also lived in the bush (porini) for some time. 
+
+Has visited Mbulu, Karatu, Arusha, Dongobesh, and Katesh. 
+
+Father is Isimjeeg, speaks Kiswahili and some Iraqw. Born in Mang'ola. Lived in Endahagichanda (Yaeda Chini), Mbulu, and the bush. 
+
+Mother is Iraqw, speaks Isimjeeg and Kiswahili. Born in Malekchand. Lived in Yaeda Chini and porini. 
+
+Father's 2nd wife is Isimjeeg, speaks Kiswahili. Born in Mang'ola and has not lived anywhere else. 
+
+Wife is Iraqw, speaks Kiswahili. Born and has lived in Mang'ola.</Key>
+                  <Key Name="AdditionalInformationPerson" Type="OpenVocabulary"/>
+                  <Key Name="Nationality" Type="OpenVocabulary">Tanzanian</Key>
+               </Keys>
+            </Actor>
+         </Actors>
+      </MDGroup>
+      <Resources>
+         <MediaFile>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Media/2015-5-25_IGS0229_RG_KM_Session_1_.wav</ResourceLink>
+            <Type Type="OpenVocabulary">Audio</Type>
+            <Format Type="OpenVocabulary">audio/x-wav</Format>
+            <Size/>
+            <Quality Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions>Unspecified</RecordingConditions>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability Type="OpenVocabulary"/>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions"/>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Media/2015-5-25_IGS0229_RG_KM_Session_2_.wav</ResourceLink>
+            <Type Type="OpenVocabulary">Audio</Type>
+            <Format Type="OpenVocabulary">audio/x-wav</Format>
+            <Size/>
+            <Quality Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions>Unspecified</RecordingConditions>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability Type="OpenVocabulary"/>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions"/>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Media/2015-5-25_IGS0229_RG_KM_Session_3_.wav</ResourceLink>
+            <Type Type="OpenVocabulary">Audio</Type>
+            <Format Type="OpenVocabulary">audio/x-wav</Format>
+            <Size/>
+            <Quality Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions>Unspecified</RecordingConditions>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability Type="OpenVocabulary"/>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions"/>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </MediaFile>
+         <WrittenResource>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Annotations/2015-5-25_IGS0229_RG_KM_Session_1_.pdf</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Type="OpenVocabulary">Document</Type>
+            <SubType Type="OpenVocabulary">Unspecified</SubType>
+            <Format Type="OpenVocabulary">application/pdf</Format>
+            <Size Type="OpenVocabulary">Unspecified</Size>
+            <Validation>
+               <Type Type="OpenVocabulary">Unspecified</Type>
+               <Methodology Type="OpenVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+            </Validation>
+            <Derivation Type="OpenVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary">Unspecified</LanguageId>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary"/>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions"/>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Annotations/2015-5-25_IGS0229_RG_KM_Session_1_.TextGrid</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Type="OpenVocabulary">Praat</Type>
+            <SubType Type="OpenVocabulary">Unspecified</SubType>
+            <Format Type="OpenVocabulary">text/praat-textgrid</Format>
+            <Size Type="OpenVocabulary">Unspecified</Size>
+            <Validation>
+               <Type Type="OpenVocabulary">Unspecified</Type>
+               <Methodology Type="OpenVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+            </Validation>
+            <Derivation Type="OpenVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary">Unspecified</LanguageId>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary">User</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions">Unrestricted.</Description>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Annotations/2015-5-25_IGS0229_RG_KM_Session_2_.pdf</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Type="OpenVocabulary">Document</Type>
+            <SubType Type="OpenVocabulary">Unspecified</SubType>
+            <Format Type="OpenVocabulary">application/pdf</Format>
+            <Size Type="OpenVocabulary">Unspecified</Size>
+            <Validation>
+               <Type Type="OpenVocabulary">Unspecified</Type>
+               <Methodology Type="OpenVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+            </Validation>
+            <Derivation Type="OpenVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary">Unspecified</LanguageId>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary"/>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions"/>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Annotations/2015-5-25_IGS0229_RG_KM_Session_2_.TextGrid</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Type="OpenVocabulary">Praat</Type>
+            <SubType Type="OpenVocabulary">Unspecified</SubType>
+            <Format Type="OpenVocabulary">text/praat-textgrid</Format>
+            <Size Type="OpenVocabulary">Unspecified</Size>
+            <Validation>
+               <Type Type="OpenVocabulary">Unspecified</Type>
+               <Methodology Type="OpenVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+            </Validation>
+            <Derivation Type="OpenVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary">Unspecified</LanguageId>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary">User</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions">Unrestricted.</Description>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Annotations/2015-5-25_IGS0229_RG_KM_Session_3_.pdf</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Type="OpenVocabulary">Document</Type>
+            <SubType Type="OpenVocabulary">Unspecified</SubType>
+            <Format Type="OpenVocabulary">application/pdf</Format>
+            <Size Type="OpenVocabulary">Unspecified</Size>
+            <Validation>
+               <Type Type="OpenVocabulary">Unspecified</Type>
+               <Methodology Type="OpenVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+            </Validation>
+            <Derivation Type="OpenVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary">Unspecified</LanguageId>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary"/>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions"/>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary"/>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>https://lat1.lis.soas.ac.uk/corpora/ELAR/datooga-griscom-0378/Annotations/2015-5-25_IGS0229_RG_KM_Session_3_.TextGrid</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Type="OpenVocabulary">Praat</Type>
+            <SubType Type="OpenVocabulary">Unspecified</SubType>
+            <Format Type="OpenVocabulary">text/praat-textgrid</Format>
+            <Size Type="OpenVocabulary">Unspecified</Size>
+            <Validation>
+               <Type Type="OpenVocabulary">Unspecified</Type>
+               <Methodology Type="OpenVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+            </Validation>
+            <Derivation Type="OpenVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary">Unspecified</LanguageId>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary">User</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact/>
+               <Description LanguageId="" Link="" Name="Conditions of Access"/>
+               <Description LanguageId="" Link="" Name="Restrictions">Unrestricted.</Description>
+            </Access>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </WrittenResource>
+      </Resources>
+      <References/>
+   </Session>
+</METATRANSCRIPT>

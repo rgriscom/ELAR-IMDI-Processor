@@ -1,0 +1,68 @@
+Project Metadata
+	ELAR Deposit code (e.g. turoyo-oez-0433)
+	Deposit Title
+	ELDP Project Title
+	Contact Information
+		Name
+		Address
+		Email
+		Affiliation
+	Project Description
+
+
+Session Metadata
+	Title of the session (in English)
+	Date of the session
+	Description of the session (in English)
+	Location of the session (Continent/Country/Region, in English)
+	Genre (Open vocabulary, suggestions from MPI)
+	Subgenre (Open vocabulary, suggestions from MPI)
+	Communication Context
+		Interactivity (Closed vocabulary)
+		Planning Type (Closed vocabulary)
+		Social Context (Closed vocabulary)
+		Event Structure (Closed vocabulary)
+	Languages
+		ISO Code
+		Name		
+		Working Language/Content Language
+	Topic
+	Keyword(s)
+	Participant/Actor Data (see Participant Metadata)
+	Media Resource(s)
+		Resource name
+		Resource type (Closed vocabulary)
+		Resource format (Open vocabulary, but a standard format appears to be followed)
+		Recording conditions
+		Access (Open vocabulary, but the ELAR O/S/U system is used)
+		Access description
+		Equipment used
+	Written Resource(s)
+		Resource name
+		Resource type (Open vocabulary)
+		Resource format (Open vocabulary, but a standard format appears to be followed)
+		Access (Open vocabulary, but the ELAR O/S/U system is used)
+		Access description
+
+
+
+
+
+Participant Metadata
+	Role
+	Name
+	Language(s)
+		ISO Code
+		Name
+		Mother Tongue (true/false)
+		Primary Language (true/false)
+	Ethnic Group
+	Age
+	Birth Date
+	Sex (Male/Female)
+	Education (Open Vocabulary)
+	Ananymized (true/false)
+	Biographical Information
+
+
+	
