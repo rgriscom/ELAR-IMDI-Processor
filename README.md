@@ -1,1 +1,2 @@
 ELAR IMDI Processor
+The script will take metadata from a spreadsheet with columns of data corresponding to metadata categories and rows of data corresponding to individual recording sessions (at the "bundle" level). It will create a new IMDI file for each bundle. The text for the IMDI file is modeled off of an IMDI file provided by ELAR.
