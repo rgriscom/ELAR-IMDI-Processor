@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                ArchiveHandle="hdl:2196/00-0000-0000-0010-2807-6"
+                Date="2016-11-15"
+                FormatId="IMDI 3.04"
+                Originator="CMDI Maker by CLASS - Cologne Language Archive Services"
+                Type="SESSION"
+                Version="1.0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+  <Session>
+      <Name>Qustan059</Name>
+      <Title>Beth Qustan Remained Unconquered</Title>
+      <Date>2016-09-08</Date>
+      <Description LanguageId="ISO639-3:eng" Link="">Suleyman, Eliyo, Lahdo and Iskender tell us that Beth Qustan was popular for being an unconquered village.</Description>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml" Type="ClosedVocabulary">Europe</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml" Type="OpenVocabulary">Germany</Country>
+            <Region>‎Stuttgart</Region>
+            <Address>Kirchardt</Address>
+         </Location>
+         <Project>
+            <Name>turoyo-oez-0433</Name>
+            <Title>Documentation of the Beth Qustan Dialect of the Central Neo-Aramaic language, Turoyo</Title>
+            <Id>IPF0244</Id>
+            <Contact>
+               <Name>Mikael Oez</Name>
+               <Address>Department of Religions and Philosophies, SOAS, University of London, Thornhaugh Street, Russell Square, London WC1H 0XG, UK</Address>
+               <Email>mo14@soas.ac.uk</Email>
+               <Organisation>SOAS, University of London</Organisation>
+            </Contact>
+            <Description LanguageId="ISO639-3:eng" Link="">The Beth Qustan dialect of the Central Neo-Aramaic, Turoyo, which is the language of Tur 'Abdin, South Eastern Turkey, with an estimated 20 families remaining in the village.This project will document socio-cultural practices of the Turoyo speaking community in Tur 'Abdin, focusing on vernacular tales, particularly those that demonstrate cultural interaction between Muslims and Christians, including Muslim visitations to the shrines of Christian saints, and consultation of soothsayers by Christians.</Description>
+         </Project>
+         <Keys/>
+         <Content>
+            <Genre Link="http://www.mpi.nl/IMDI/Schema/Content-Genre.xml" Type="OpenVocabulary">Narrative</Genre>
+            <SubGenre Link="http://www.mpi.nl/IMDI/Schema/Content-SubGenre.xml"
+                      Type="OpenVocabularyList"/>
+            <Task Link="http://www.mpi.nl/IMDI/Schema/Content-Task.xml" Type="OpenVocabulary"/>
+            <Modalities Link="http://www.mpi.nl/IMDI/Schema/Content-Modalities.xml"
+                        Type="OpenVocabulary"/>
+            <Subject Link="http://www.mpi.nl/IMDI/Schema/Content-Subject.xml"
+                     Type="OpenVocabularyList"/>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">non-interactive</Interactivity>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">spontaneous</PlanningType>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">non-elicited</Involvement>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">Unspecified</SocialContext>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">Dialogue</EventStructure>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary"/>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="ISO639-3:eng" Link=""/>
+               <Language>
+                  <Id>ISO639-3:tru</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turoyo</Name>
+				  <Dominant Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description LanguageId="ISO639-3:eng" Link="">Content Language</Description>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:eng</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">English</Name>
+                  <Dominant Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">Unspecified</Dominant>
+                  <SourceLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">Unspecified</SourceLanguage>
+                  <TargetLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">Unspecified</TargetLanguage>
+                  <Description LanguageId="" Link="">Working Language</Description>
+               </Language>
+            </Languages>
+            <Keys>
+               <Key Name="Topic" Type="OpenVocabulary">Village</Key>
+               <Key Name="Keyword" Type="OpenVocabulary">Unconquered, Village</Key>
+            </Keys>
+            <Description LanguageId="ISO639-3:eng" Link="">...</Description>
+         </Content>
+         <Actors>
+            <Description LanguageId="ISO639-3:eng" Link="">Eliyo was born in the village of Beth Qustan in 1948 and emigrated to Germany in 1975.
+
+Lahdo was born in the village of Beth Qustan in 1947 and immegrated to Germany in 1979. 
+
+Iskender was born in the village of Beth Qustan in 1952 and immegrated to Germany in 1976. 
+
+Suleyman was born in the village of Beth Qustan in 1952 and immegrated to Germany in 1980.</Description>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml" Type="OpenVocabularyList">Consultant</Role>
+               <Name>Eliyo Acar</Name>
+               <FullName>Eliyo Acar</FullName>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unknown</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng" Link=""/>
+                  <Language>
+                     <Id>ISO639-3:tru</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turoyo</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:tur</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turkish</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:syr</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Syriac</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:kmr</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Kurdish, Northern</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:ayp</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Arabic, North Mesopotamian Spoken</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:eng</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">English</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup Type="OpenVocabulary">Syriac</EthnicGroup>
+               <Age>68</Age>
+               <BirthDate>1948-04-07</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml" Type="ClosedVocabulary">Male</Sex>
+               <Education>Beth Qustan Traditional School</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name>Mikael Oez</Name>
+                  <Address>Department of Religions and Philosophies, SOAS, University of London, Thornhaugh Street, Russell Square, London WC1H 0XG, UK</Address>
+                  <Email>mo14@soas.ac.uk</Email>
+                  <Organisation>SOAS, University of London</Organisation>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng" Link="">Eliyo was born in the village of Beth Qustan in 1948 and emigrated to Germany in 1975.</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml" Type="OpenVocabularyList">Consultant</Role>
+               <Name>Suleyman Agirman</Name>
+               <FullName>Suleyman Agirman</FullName>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unknown</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng" Link=""/>
+                  <Language>
+                     <Id>ISO639-3:tru</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turoyo</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:tur</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turkish</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:kmr</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Kurdish, Northern</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:deu</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">German, Standard</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup Type="OpenVocabulary">Syriac</EthnicGroup>
+               <Age>64</Age>
+               <BirthDate>1952-02-12</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml" Type="ClosedVocabulary">Male</Sex>
+               <Education>None</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name>Mikael Oez</Name>
+                  <Address>Department of Religions and Philosophies, SOAS, University of London, Thornhaugh Street, Russell Square, London WC1H 0XG, UK</Address>
+                  <Email>mo14@soas.ac.uk</Email>
+                  <Organisation>SOAS, University of London</Organisation>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng" Link="">Suleyman was born in the village of Beth Qustan in 1952 and immegrated to Germany in 1980.</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml" Type="OpenVocabularyList">Consultant</Role>
+               <Name>Iskender Demirel</Name>
+               <FullName>Iskender Demirel</FullName>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unknown</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng" Link=""/>
+                  <Language>
+                     <Id>ISO639-3:tru</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turoyo</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:tur</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turkish</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:kmr</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Kurdish, Northern</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:deu</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">German, Standard</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup Type="OpenVocabulary">Syriac</EthnicGroup>
+               <Age>64</Age>
+               <BirthDate>1952-01-01</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml" Type="ClosedVocabulary">Male</Sex>
+               <Education>None</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name>Mikael Oez</Name>
+                  <Address>Department of Religions and Philosophies, SOAS, University of London, Thornhaugh Street, Russell Square, London WC1H 0XG, UK</Address>
+                  <Email>mo14@soas.ac.uk</Email>
+                  <Organisation>SOAS, University of London</Organisation>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng" Link="">Iskender was born in the village of Beth Qustan in 1952 and immegrated to Germany in 1976.</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml" Type="OpenVocabularyList">Consultant</Role>
+               <Name>Lahdo Agirman</Name>
+               <FullName>Lahdo Agirman</FullName>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unknown</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng" Link=""/>
+                  <Language>
+                     <Id>ISO639-3:tru</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turoyo</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:tur</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Turkish</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:kmr</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">Kurdish, Northern</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:deu</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml" Type="OpenVocabulary">German, Standard</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng" Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup Type="OpenVocabulary">Syriac</EthnicGroup>
+               <Age>69</Age>
+               <BirthDate>1947-07-01</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml" Type="ClosedVocabulary">Male</Sex>
+               <Education>None</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml" Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name>Mikael Oez</Name>
+                  <Address>Department of Religions and Philosophies, SOAS, University of London, Thornhaugh Street, Russell Square, London WC1H 0XG, UK</Address>
+                  <Email>mo14@soas.ac.uk</Email>
+                  <Organisation>SOAS, University of London</Organisation>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng" Link="">Lahdo was born in the village of Beth Qustan in 1947 and immegrated to Germany in 1979.</Description>
+            </Actor>
+         </Actors>
+      </MDGroup>
+      <Resources>
+         <MediaFile>
+            <ResourceLink ArchiveHandle="hdl:2196/00-0000-0000-000F-D054-8">../Media/Qustan059.mp4</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml" Type="ClosedVocabulary">Video</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml" Type="OpenVocabulary">video/mp4</Format>
+            <Size/>
+            <Quality Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions>Video was shot in very low light using the light from the fire at the hearth and a reflector using a LED light source placed opposite the speaker.</RecordingConditions>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability Type="OpenVocabulary">S</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-2:eng" Link="">This resource entails sensitive materials.</Description>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+			   <Key Name="Status" Type="OpenVocabulary">stable</Key>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary">Canon XA20, Shure WH30</Key>
+            </Keys>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink ArchiveHandle="hdl:2196/00-0000-0000-000F-D055-C">../Media/Qustan059.jpg</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml" Type="ClosedVocabulary">Image</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml" Type="OpenVocabulary">image/jpeg</Format>
+            <Size/>
+            <Quality Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability Type="OpenVocabulary">O</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+			   <Description LanguageId="ISO639-2:eng" Link=""></Description>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary"/>
+            </Keys>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink ArchiveHandle="hdl:2196/00-0000-0000-000F-D052-E">../Media/Qustan059.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml" Type="ClosedVocabulary">Audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml" Type="OpenVocabulary">audio/x-wav</Format>
+            <Size/>
+            <Quality Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability Type="OpenVocabulary">O</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-2:eng" Link=""></Description>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+			   <Key Name="Status" Type="OpenVocabulary">stable</Key>
+               <Key Name="RecordingEquipment" Type="OpenVocabulary">Marantz</Key>
+            </Keys>
+         </MediaFile>
+         <WrittenResource>
+            <ResourceLink ArchiveHandle="hdl:2196/00-0000-0000-0010-2811-C">../Annotations/Qustan059.pfsx</ResourceLink>
+            <MediaResourceLink/>
+            <Date>2017-04-29</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Settings</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabulary">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/x-pfsx+xml</Format>
+            <Size Type="OpenVocabulary">6823 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary">Unspecified</Type>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+               <Description LanguageId="" Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary">Translation</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary"/>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary">O</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-2:eng" Link=""></Description>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink ArchiveHandle="hdl:2196/00-0000-0000-0010-2810-4">../Annotations/Qustan059.eaf</ResourceLink>
+            <MediaResourceLink/>
+            <Date>2017-04-29</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">ELAN</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabulary">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/x-eaf+xml</Format>
+            <Size Type="OpenVocabulary">14 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary">Unspecified</Type>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+               <Description LanguageId="" Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary">Translation</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary"/>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary">O</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+			   <Description LanguageId="ISO639-2:eng" Link=""></Description>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink ArchiveHandle="hdl:2196/00-0000-0000-000F-D051-3">../Annotations/Qustan059-3.pdf</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Document</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabulary">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">application/pdf</Format>
+            <Size Type="OpenVocabulary"/>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary">Unspecified</Type>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+               <Description LanguageId="" Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary"/>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary">O</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-2:eng" Link=""></Description>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+            </Keys>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink ArchiveHandle="hdl:2196/00-0000-0000-000F-D056-5">../Annotations/Qustan059-2.pdf</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Document</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabulary">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">application/pdf</Format>
+            <Size Type="OpenVocabulary"/>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary">Unspecified</Type>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary">Unspecified</Methodology>
+               <Level>Unspecified</Level>
+               <Description LanguageId="" Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary">Unspecified</Derivation>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId Type="OpenVocabulary"/>
+            <Anonymized Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability Type="OpenVocabulary">O</Availability>
+               <Date>Unspecified</Date>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-2:eng" Link=""></Description>
+            </Access>
+            <Description LanguageId="" Link=""/>
+            <Keys>
+               <Key Name="Status" Type="OpenVocabulary">stable</Key>
+            </Keys>
+         </WrittenResource>
+      </Resources>
+      <References/>
+  </Session>
+</METATRANSCRIPT>

@@ -3,6 +3,7 @@
 #Contact: rgriscom@gmail.com
 #Description: The script will take metadata from a spreadsheet with columns of data corresponding to metadata categories and rows of data corresponding to individual recording sessions (at the "bundle" level). It will create a new IMDI file for each bundle. The text for the IMDI file is modeled off of an IMDI file provided by ELAR.
         #It assumes you have a tab-delimited text file in the same folder as the script which has a first row with column names that correspond to metadata categories and subsequent rows that correspond to bundles/sessions.
+        #It assumes you have the corresponding data files in the same folder (e.g. .WAV, .MP4, .EAF, .etc)
         #It creates a folder called "Output" with IMDI files created for each bundle/session in the tab-delimited text file.
 
 #Check OS
