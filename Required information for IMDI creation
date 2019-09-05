@@ -9,14 +9,12 @@ Project Metadata
 		Affiliation
 	Project Description
 
-
 Session Metadata
-	Title of the session (in English)
+	Title of the session
 	Date of the session
-	Description of the session (in English)
+	Description of the session
 	Location of the session (Continent/Country/Region, in English)
 	Genre (Open vocabulary, suggestions from MPI)
-	Subgenre (Open vocabulary, suggestions from MPI)
 	Communication Context
 		Interactivity (Closed vocabulary)
 		Planning Type (Closed vocabulary)
@@ -44,10 +42,6 @@ Session Metadata
 		Access (Open vocabulary, but the ELAR O/S/U system is used)
 		Access description
 
-
-
-
-
 Participant Metadata
 	Role
 	Name
@@ -61,7 +55,7 @@ Participant Metadata
 	Birth Date
 	Sex (Male/Female)
 	Education (Open Vocabulary)
-	Ananymized (true/false)
+	Anonymized (true/false)
 	Biographical Information
 
 
